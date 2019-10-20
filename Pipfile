@@ -13,6 +13,7 @@ jupyterlab = "*"
 torchvision = "*"
 requests = "*"
 matplotlib = "*"
+fire = "*"
 
 [requires]
 python_version = "3.6"
